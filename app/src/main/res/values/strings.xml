@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="lbl_hello_world">Hello World</string>
+    <string name="lbl_bottom_navigation">Bottom Navigation</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_notification">Notification</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_description">PADC Myanmar</string>
+    <string name="bottom_sheet">Bottom Sheet</string>
+    <string name="lbl_normal_material_button">Normal Material Button</string>
+    <string name="lbl_text_material_button">Text Material Button</string>
+    <string name="lbl_outline_material_button">OutLine Material Button</string>
+    <string name="lbl_chip">I\'m chip</string>
+    <string name="lbl_icon_chip">Icon Chip</string>
+    <string name="lbl_checkable_chip">Checkable Chip</string>
+    <string name="lbl_choice_chip">Choice Chip</string>
+    <string name="lbl_entry_chip">Entry Chip</string>
+    <string name="lbl_filter_chip">Filter Chip</string>
+    <string name="lbl_action_chip">Action Chip</string>
+    <string name="lbl_this">This</string>
+    <string name="lbl_is">is</string>
+    <string name="lbl_padc">PADC</string>
+    <string name="lbl_myanmar">Myanmar</string>
+    <string name="lbl_foundation">Foundation</string>
+    <string name="lbl_learning">Learning</string>
+    <string name="lbl_portal">Portal</string>
+    <string name="lbl_enter_keyword">Enter Keywords</string>
+    <string name="lbl_text">Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+        App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+        CoordinatorLayout allows communication between its child views. Here, Collapsing toolbar can be considered as wrapper toolbar for adding additional features. For this to happen, it should be used as child of Appbar and appbar layout has to be a part of CoordinatorLayout, to make the functionality work.
+In the picture above, Toolbar and ImageView are encapsulated inside CollapsingToolbar to help customising Toolbar, i.e apply UI behavioural and positional change.
+    Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+        App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+        CoordinatorLayout allows communication between its child views. Here, Collapsing toolbar can be considered as wrapper toolbar for adding additional features. For this to happen, it should be used as child of Appbar and appbar layout has to be a part of CoordinatorLayout, to make the functionality work.
+In the picture above, Toolbar and ImageView are encapsulated inside CollapsingToolbar to help customising Toolbar, i.e apply UI behavioural and positional change.
+    Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+        App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+        CoordinatorLayout allows communication between its child views. Here, Collapsing toolbar can be considered as wrapper toolbar for adding additional features. For this to happen, it should be used as child of Appbar and appbar layout has to be a part of CoordinatorLayout, to make the functionality work.
+In the picture above, Toolbar and ImageView are encapsulated inside CollapsingToolbar to help customising Toolbar, i.e apply UI behavioural and positional change.</string>
+    <string name="coordinator">Coordinator</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="slide_show">Slide Show</string>
+    <string name="setting">Setting</string>
+    <string name="communications">Communications</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+
+</resources>

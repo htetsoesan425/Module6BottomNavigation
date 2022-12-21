@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_medium_2"
+    android:background="@color/purple_200"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activities.ButtonCollectionActivity">
+
+    <Button
+        android:id="@+id/btnBottomNavigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Bottom Navigation"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnBottomNavigationWithViewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Bottom Nav With View Pager"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnAppBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Appbar Bottom"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+
+    <Button
+        android:id="@+id/btnBottomSheet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Bottom Sheet"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnCollapsingToolBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Collapsing Toolbar"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnCoordinator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Coordinator Layout"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnOtherUIElements"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Material Components"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:id="@+id/btnNavigationView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Navigation View"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+
+    <Button
+        android:id="@+id/btnConstraint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="Constraint Layout"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="43dp" />
+</LinearLayout>
